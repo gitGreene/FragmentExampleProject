@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\ef8699d541c8b0dc80358a4c64db3d1c11b4b2a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_8cabcbbb23974b2c6416bf399f9c43e900913975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\0eebae7979c0a0ffadcecc25d3f91f7c8ef0e347\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_9bc4f501d743dbc897a01de4e57c57fba493e8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\5096e3915a39326291c06529e3ce69c642a3ea3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_5076b17c0eeac34cabd29aa68947dacf1437d301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.1_b3c484c8bde4ebea5a90df06aec9a7f467a84e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\cd39c4742eb197cbef31a5610ff74a81a640d9ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_c8fa8e5da4349ff55fe5eb1d2a38e9ec1daf2f09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\6db5bdee2fc836e3e2211e34aea52f675b854f6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_c512a5ba13020a9b900482d574dba661b3a979df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\ede6f67a9f00b4efe41a26498faabf9c2489df2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_683a3b32b11c99674f87f24c4bf1ee0069fe5cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\bc873980d156abd9c26f82bdbd241ec764736738\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_d58a06a7f42cb5f8737fe41ff4395d07476c17f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\861b5f3087eedaf4b7e11476152b9aca924b6bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_94df83e6d3bbae8c1417741ae734ef288769c683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_87d36369d8dc8657b22ad8813de8d782f7154959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\3677fb6238668c6381b707fcd0dc7336ad89c1e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_91960507e15e1e7fecc1ea33e621348048a1352e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\d2ddc0e986a893385fba82f3290a7f983a7abde9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\Ian\Desktop\AndroidStudioProjects\android-advanced-starter-apps\FragmentExample_start\app\build\intermediates\pre-dexed\debug\classes_5e3424a53f28b6eced17646e760d6967dd4d270d.jar" />
+    </item>
+
+</items>
