@@ -43,4 +43,10 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="fragment_example_project_title">Fragment Example Project</string>
 
+    <!-- Rating Bar -->
+    <string name="yes_message2">SONG: Like</string>
+    <string name="no_message2">SONG: Thanks</string>
+    <string name="question_the_song">LIKE THE SONG?</string>
+    <string name="my_rating">My Rating:</string>
+
 </resources>
