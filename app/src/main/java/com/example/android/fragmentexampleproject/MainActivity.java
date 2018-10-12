@@ -16,14 +16,33 @@
 
 package com.example.android.fragmentexampleproject;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+    private Button mButton;
+    private boolean isFragmentDisplayed = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mButton = findViewById(R.id.open_button);
+    }
+
+    public void displayFragment() {
+        // Instantiate the fragment.
+        SimpleFragment simpleFragment = SimpleFragment.newInstance();
+        // Get the FragmentManager and start a transaction.
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+
+        fragmentTransaction.add(R.id.fragment_container, simpleFragment).addToBackStack(null).commit();
+        mButton.setText(R.string.close);
+        isFragmentDisplayed = true;
     }
 }

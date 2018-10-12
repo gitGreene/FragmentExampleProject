@@ -1,10 +1,8 @@
 package com.example.android.fragmentexampleproject;
 
 
-import android.os.Build;
 import android.os.Bundle;
-import android.app.Fragment;
-import android.support.annotation.RequiresApi;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +23,6 @@ public class SimpleFragment extends Fragment {
     public SimpleFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater,
@@ -58,7 +55,6 @@ public class SimpleFragment extends Fragment {
         // Set the rating bar onCheckedChanged listener.
         ratingBar.setOnRatingBarChangeListener
                 (new RatingBar.OnRatingBarChangeListener() {
-                    @RequiresApi(api = Build.VERSION_CODES.M)
                     @Override
                     public void onRatingChanged(RatingBar ratingBar,
                                                 float rating, boolean fromUser) {
@@ -71,6 +67,10 @@ public class SimpleFragment extends Fragment {
                 });
         // Return the View for the fragment's UI.
         return rootView;
+    }
+
+    public static SimpleFragment newInstance() {
+        return new SimpleFragment();
     }
 
 }
