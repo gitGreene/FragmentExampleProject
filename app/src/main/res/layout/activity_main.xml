@@ -73,15 +73,14 @@
             tools:layout_editor_absoluteY="288dp"/>
     </ScrollView>
 
-    <FrameLayout
+    <LinearLayout
         android:id="@+id/fragment_container"
-        android:name="com.example.android.fragmentexampleproject.SimpleFragment"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:orientation="vertical"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_simple" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/open_button"
@@ -92,7 +91,8 @@
         android:layout_marginTop="8dp"
         android:text="@string/open"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        android:onClick="buttonClicked"/>
 
 
 </android.support.constraint.ConstraintLayout>
